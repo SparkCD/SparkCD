@@ -1,4 +1,6 @@
-### Hi there 👋        ![]( https://visitor-badge.glitch.me/badge?page_id=<your_page_id>)
+### Hi there 👋  &#8195; ![]( https://visitor-badge.glitch.me/badge?page_id=<your_page_id>)
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="320" />
+
 
 <!--
 **SparkCD/SparkCD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
