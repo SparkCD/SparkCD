@@ -1,4 +1,4 @@
-### Hi there 👋  &#8195; ![]( https://visitor-badge.glitch.me/badge?page_id=<your_page_id>)
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> &#8195; ![]( https://visitor-badge.glitch.me/badge?page_id=<your_page_id>)
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="325" height="303" />
 
 
