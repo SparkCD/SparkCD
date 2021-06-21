@@ -1,5 +1,5 @@
 ### Hi there 👋  &#8195; ![]( https://visitor-badge.glitch.me/badge?page_id=<your_page_id>)
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="325" height="300" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="323" height="300" />
 
 
 <!--
