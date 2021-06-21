@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 
-- 🌱 I’m currently learning ESP8266/ESP32 - Android ROM -
+- 🌱 I’m currently learning WEB/C
 - 🖋  Writer at [Spark](https://990819.cn)
 - ✍️ [Blogger](https://990819.cn)
 - 📫 Ask me about anything [email](mailto:19@990819.cn) 
